@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javawc-site:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javawc-site-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="javawc-site:war exploded" />
+    </root>
+  </artifact>
+</component>
